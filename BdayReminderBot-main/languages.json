@@ -1,0 +1,19 @@
+{
+
+    "en": [
+        "Today is the birthday of",
+        "Send them your wishes!",
+        "🎂 Happy Birthday!"
+    ],
+      
+    "uz": [
+        "> {0} - Tugilgan_kun {1}",
+        "> {0}",
+        "🎂 Ertaga tugilgan kuni: {0}\n\n"
+    ],
+    "ru": [
+        "> {0} - ДР {1}",
+        "> {0}",
+        "🎂 Завтра день рождение: {0}\n\n"
+    ]
+}
